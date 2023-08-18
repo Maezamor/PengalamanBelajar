@@ -41,4 +41,7 @@ Monitoring dan Audit (Opsional):
 
 Aplikasi mungkin memiliki mekanisme untuk memantau aktivitas login dan mencatat kejadian penting terkait keamanan.
 
-dperlukan enkripsi data yang sangat penting untuk dilakukan karena menjaga data biar tetap aman
+
+melaukan penyimpanan cookie untuk memudahkan user dalam proses login
+
+
