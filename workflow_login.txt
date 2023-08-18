@@ -1,0 +1,43 @@
+Workflow: Proses Login
+
+Pengguna Membuka Aplikasi:
+
+Pengguna membuka aplikasi pada perangkatnya.
+Tampilan Halaman Login:
+
+Aplikasi menampilkan halaman login kepada pengguna.
+Masukkan Kredensial:
+
+Pengguna memasukkan informasi kredensialnya, seperti nama pengguna (username) dan kata sandi (password).
+Verifikasi Kredensial:
+
+Aplikasi melakukan verifikasi kredensial yang dimasukkan pengguna:
+Memeriksa kecocokan nama pengguna dan kata sandi dengan data yang tersimpan.
+Memastikan bahwa kredensial yang dimasukkan valid.
+Otentikasi Berhasil:
+
+Jika kredensial valid, pengguna diarahkan ke tampilan utama aplikasi.
+Otentikasi Gagal:
+
+Jika kredensial tidak valid, aplikasi memberikan pesan kesalahan kepada pengguna dan meminta kredensial yang benar.
+Opsi Pemulihan Kata Sandi:
+
+Jika pengguna lupa kata sandi, aplikasi menyediakan opsi untuk mengatur ulang kata sandi melalui alamat email atau metode lain.
+Keamanan Tambahan (Opsional):
+
+Beberapa aplikasi mungkin menerapkan langkah-langkah keamanan tambahan, seperti verifikasi dua faktor, untuk meningkatkan perlindungan akun.
+Keluar dari Akun:
+
+Pengguna dapat memilih opsi keluar untuk mengakhiri sesi dan kembali ke halaman login.
+Sesi Berakhir Otomatis (Opsional):
+
+Aplikasi mungkin memiliki kebijakan untuk mengakhiri sesi secara otomatis setelah jangka waktu tertentu tanpa aktivitas.
+Pengelolaan Akun (Opsional):
+
+Aplikasi dapat menyediakan opsi untuk mengelola akun pengguna, termasuk mengubah kata sandi, mengubah informasi profil, dan lainnya.
+Pengamanan Data Kredensial:
+
+Aplikasi harus memastikan bahwa data kredensial disimpan dengan aman menggunakan teknik enkripsi dan praktik keamanan lainnya.
+Monitoring dan Audit (Opsional):
+
+Aplikasi mungkin memiliki mekanisme untuk memantau aktivitas login dan mencatat kejadian penting terkait keamanan.
