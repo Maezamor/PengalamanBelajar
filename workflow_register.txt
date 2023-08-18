@@ -23,6 +23,8 @@ Opsi Pengisian Profil (Opsional):
 Setelah akun dibuat, pengguna mungkin diberi opsi untuk mengisi profil lebih lanjut, seperti foto profil atau informasi tambahan.
 Opsi Pemulihan Akun (Opsional):
 
+saya menjadi manusia yang daoat terobati
+
 Aplikasi dapat menyediakan opsi untuk mengatur pertanyaan pemulihan atau metode lain untuk membantu pemulihan akun jika diperlukan.
 Opsi Verifikasi Dua Faktor (Opsional):
 
