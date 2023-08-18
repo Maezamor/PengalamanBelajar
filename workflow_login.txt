@@ -36,8 +36,9 @@ Pengelolaan Akun (Opsional):
 
 Aplikasi dapat menyediakan opsi untuk mengelola akun pengguna, termasuk mengubah kata sandi, mengubah informasi profil, dan lainnya.
 Pengamanan Data Kredensial:
-
 Aplikasi harus memastikan bahwa data kredensial disimpan dengan aman menggunakan teknik enkripsi dan praktik keamanan lainnya.
 Monitoring dan Audit (Opsional):
 
 Aplikasi mungkin memiliki mekanisme untuk memantau aktivitas login dan mencatat kejadian penting terkait keamanan.
+
+dperlukan enkripsi data yang sangat penting untuk dilakukan karena menjaga data biar tetap aman
